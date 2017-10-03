@@ -1,4 +1,4 @@
-# Hand Written Digit CLassification in Machine Learning
+# Hand Written Digit Classification in Machine Learning
 
 Implement a Multilayer Perceptron Neural Network and evaluate its performance in classifying handwritten digits.
 1. Feed Forward Propagation
